@@ -1,0 +1,36 @@
+001:
+  - 'test03@test.com'
+  - True
+002:
+  - 'test04@test.com'
+  - True
+003:
+  - 'test05@test.com'
+  - True
+004:
+  - 'test01@test.com'
+  - False
+005:
+  - 'test02@test.com'
+  - False
+006:
+  - 'test06@test.com'
+  - False
+007:
+  - 'test07@test.com'
+  - False
+008:
+  - 'test08@test.com'
+  - False
+009:
+  - 'test09@test.com'
+  - False
+010:
+  - 'test10@test.com'
+  - False
+011:
+  - 'test11@test.com'
+  - False
+
+
+

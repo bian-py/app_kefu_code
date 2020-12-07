@@ -1,0 +1,73 @@
+2020-12-03 03:59:43,802 ERROR [admin] [test001_fwq.py(test_fwq_hand_add:58)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 03:59:54,663 ERROR [admin] [test001_fwq.py(test_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 04:00:10,270 ERROR [admin] [test001_fwq.py(test_fwq_hand_add:58)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 04:00:21,068 ERROR [admin] [test001_fwq.py(test_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 04:25:33,705 ERROR [admin] [test001_fwq.py(test_fwq_hand_add:58)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 04:25:44,527 ERROR [admin] [test001_fwq.py(test_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 04:26:00,655 ERROR [admin] [test001_fwq.py(test_fwq_hand_add:58)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 04:26:11,520 ERROR [admin] [test001_fwq.py(test_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 04:30:45,824 ERROR [admin] [test001_fwq.py(test_fwq_hand_add:58)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 04:30:56,624 ERROR [admin] [test001_fwq.py(test_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 04:31:12,833 ERROR [admin] [test001_fwq.py(test_fwq_hand_add:58)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 04:31:23,657 ERROR [admin] [test001_fwq.py(test_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 09:26:24,629 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 09:26:32,585 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 09:31:56,652 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:58)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 09:32:07,472 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 09:32:22,494 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:58)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 09:32:33,248 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 09:53:23,553 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 09:53:31,850 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 09:58:06,764 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:58)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 09:58:17,565 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 09:58:26,576 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 10:03:13,990 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:58)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 10:03:24,787 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 10:03:40,994 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:58)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 10:03:51,800 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 10:09:04,835 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 10:09:20,007 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:58)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 10:09:30,824 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:64)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 10:54:30,096 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:59)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 10:54:40,890 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:65)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 10:54:57,091 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:59)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 10:55:07,911 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:65)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 12:53:28,033 ERROR [admin] [test002_login.py(test02_login_cancel:61)] - 取消失败
+2020-12-03 12:58:12,587 ERROR [admin] [test002_login.py(test01_login:34)] - 正向用例，登录失败
+2020-12-03 12:59:44,831 ERROR [admin] [test002_login.py(test01_login:50)] - 逆向用例，登录成功
+2020-12-03 13:07:42,697 ERROR [admin] [test002_login.py(test01_login:50)] - 逆向用例，登录成功
+2020-12-03 13:09:45,307 ERROR [admin] [test002_login.py(test01_login:46)] - 错误信息提示有误
+2020-12-03 13:09:45,714 ERROR [admin] [test002_login.py(test01_login:50)] - 逆向用例，登录成功
+2020-12-03 13:13:37,055 ERROR [admin] [test002_login.py(test01_login:48)] - 错误信息提示有误
+2020-12-03 13:13:37,576 ERROR [admin] [test002_login.py(test01_login:54)] - 逆向用例，登录成功
+2020-12-03 13:27:46,003 ERROR [admin] [test002_login.py(test01_login:48)] - 错误信息提示有误
+2020-12-03 13:27:46,496 ERROR [admin] [test002_login.py(test01_login:54)] - 逆向用例，登录成功
+2020-12-03 13:32:06,775 ERROR [admin] [test002_login.py(test02_login_cancel:65)] - 取消失败
+2020-12-03 13:42:37,076 ERROR [admin] [test002_login.py(test02_login_cancel:65)] - 取消失败
+2020-12-03 13:45:40,647 ERROR [admin] [test002_login.py(test01_login:49)] - 错误信息提示有误
+2020-12-03 13:45:41,150 ERROR [admin] [test002_login.py(test01_login:55)] - 逆向用例，登录成功
+2020-12-03 13:45:59,203 ERROR [admin] [test002_login.py(test01_login:49)] - 错误信息提示有误
+2020-12-03 13:45:59,685 ERROR [admin] [test002_login.py(test01_login:55)] - 逆向用例，登录成功
+2020-12-03 13:46:17,229 ERROR [admin] [test002_login.py(test01_login:49)] - 错误信息提示有误
+2020-12-03 13:47:17,923 ERROR [admin] [test002_login.py(test01_login:49)] - 错误信息提示有误
+2020-12-03 13:47:17,938 ERROR [admin] [test002_login.py(test01_login:55)] - 逆向用例，登录成功
+2020-12-03 13:49:42,278 ERROR [admin] [test002_login.py(test02_login_cancel:67)] - 取消失败
+2020-12-03 13:52:48,306 ERROR [admin] [test002_login.py(test02_login_cancel:67)] - 取消失败
+2020-12-03 14:06:52,686 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:59)] - 无错误提示信息，或者提示信息有误，Message: 
+
+2020-12-03 14:07:03,462 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:65)] - 错误的用例，能够添加成功，用例不通过
+2020-12-03 14:07:11,940 ERROR [admin] [test001_fwq.py(test01_fwq_hand_add:65)] - 错误的用例，能够添加成功，用例不通过

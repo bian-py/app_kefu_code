@@ -1,0 +1,38 @@
+001:
+  - '我的服务器'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - 'test03@test.com'
+  - '123456'
+  - ''
+002:
+  - '我的服务器'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - 'test04@test.com'
+  - '123456'
+  - ''
+003:
+  - '我的服务器'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - 'test0111'
+  - '123456'
+  - '用户名密码错误，请检查'
+004:
+  - '我的服务器'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - 'test05@test.com'
+  - '12345678'
+  - '用户名密码错误，请检查'
+005:
+  - '我的服务器'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - 'test05@test.com'
+  - ''
+  - '用户名密码错误，请检查'
+006:
+  - '我的服务器'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - ''
+  - '123456'
+  - '用户名密码错误，请检查'
+
+

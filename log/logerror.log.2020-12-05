@@ -1,0 +1,7 @@
+2020-12-05 04:39:19,016 ERROR [admin] [test003_user.py(test04_user_conversation:109)] - 没有收到消息
+2020-12-05 04:41:53,656 ERROR [admin] [test003_user.py(test04_user_conversation:109)] - 没有收到消息
+2020-12-05 04:45:29,874 ERROR [admin] [test003_user.py(test04_user_conversation:118)] - 能够查看你其他用户消息
+2020-12-05 04:49:24,262 ERROR [admin] [test003_user.py(test04_user_conversation:119)] - 能够查看你其他用户消息
+2020-12-05 17:50:34,577 ERROR [admin] [test003_user.py(test03_user_list_display:81)] - 断言失败，正在截图
+2020-12-05 17:50:36,415 ERROR [admin] [test003_user.py(test03_user_list_display:81)] - 断言失败，正在截图
+2020-12-05 17:54:19,899 ERROR [admin] [test003_user.py(test03_user_list_display:81)] - 断言失败，正在截图

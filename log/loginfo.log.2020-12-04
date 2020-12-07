@@ -1,0 +1,648 @@
+2020-12-04 03:22:45,869 INFO [admin] [get_driver.py(get_app_driver:13)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 03:23:03,319 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="69079afd-538d-47e5-8c7e-9d760723bf2f")>
+2020-12-04 03:23:03,319 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="69079afd-538d-47e5-8c7e-9d760723bf2f")>
+2020-12-04 03:23:03,320 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="69079afd-538d-47e5-8c7e-9d760723bf2f")>
+2020-12-04 03:23:03,325 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 03:23:03,640 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 03:23:05,011 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 03:23:15,542 INFO [admin] [test003_user.py(setup_class:22)] - 正在处理高版本系统的弹窗
+2020-12-04 03:23:16,527 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 03:23:16,527 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 03:23:16,528 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 03:23:16,528 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 03:23:19,044 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 03:23:19,044 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 03:23:19,044 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 03:24:34,472 INFO [admin] [get_driver.py(get_app_driver:13)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 03:24:51,329 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="7b9aec1e-ecd4-426d-b061-5533a8e5a664")>
+2020-12-04 03:24:51,329 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="7b9aec1e-ecd4-426d-b061-5533a8e5a664")>
+2020-12-04 03:24:51,329 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="7b9aec1e-ecd4-426d-b061-5533a8e5a664")>
+2020-12-04 03:24:51,329 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 03:24:51,646 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 03:24:53,347 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 03:25:01,515 INFO [admin] [test003_user.py(setup_class:22)] - 正在处理高版本系统的弹窗
+2020-12-04 03:25:02,231 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 03:25:02,231 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 03:25:02,231 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 03:25:02,231 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 03:25:04,629 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 03:25:04,629 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 03:25:04,629 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 03:25:05,416 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 03:25:05,416 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 03:25:07,176 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 03:25:07,206 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 03:25:07,747 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 03:25:07,747 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 03:25:08,401 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 03:25:08,427 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 03:25:09,021 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 03:25:09,021 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 03:25:09,021 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 03:25:10,732 INFO [admin] [page_login.py(page_login:54)] - 调用登录页面组合业务方法
+2020-12-04 03:25:10,732 INFO [admin] [page_login.py(page_login_click_fwq:15)] - 点击要登录的服务器:我的服务器
+2020-12-04 03:25:10,732 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"我的服务器 http://192.168.1.10/kefu/php/app.php?mobile-api")]')
+2020-12-04 03:25:10,732 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"我的服务器 http://192.168.1.10/kefu/php/app.php?mobile-api")]')
+2020-12-04 03:25:12,077 INFO [admin] [page_login.py(page_login_input_username:20)] - 输入用户名
+2020-12-04 03:25:12,077 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="登陆"]/../../android.widget.EditText')
+2020-12-04 03:25:13,180 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="登陆"]/../../android.widget.EditText')
+2020-12-04 03:25:13,200 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="登陆"]/../../android.widget.EditText')输入test04@test.com
+2020-12-04 03:25:13,759 INFO [admin] [page_login.py(page_login_input_password:24)] - 输入密码
+2020-12-04 03:25:13,759 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="密码"]/../../android.widget.EditText')
+2020-12-04 03:25:14,378 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="密码"]/../../android.widget.EditText')
+2020-12-04 03:25:14,396 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="密码"]/../../android.widget.EditText')输入123456
+2020-12-04 03:25:14,926 INFO [admin] [page_login.py(page_login_click_confirm_btn:28)] - 点击确认按钮
+2020-12-04 03:25:14,926 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.widget.Button[@content-desc="登陆 "]')
+2020-12-04 03:25:14,926 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.widget.Button[@content-desc="登陆 "]')
+2020-12-04 03:25:17,091 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.view.View[@content-desc="test04@test.com]')
+2020-12-04 03:25:17,091 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="test04@test.com]')
+2020-12-04 03:25:27,366 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.view.View[@content-desc="test03@test.com]')
+2020-12-04 03:25:27,366 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="test03@test.com]')
+2020-12-04 03:25:37,619 INFO [admin] [get_driver.py(quit_app_driver:22)] - 关闭驱动对象，并置空
+2020-12-04 03:26:39,966 INFO [admin] [get_driver.py(get_app_driver:13)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 03:26:55,963 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="10c1ca80-48a1-4309-bf6f-36f9ed9c675a")>
+2020-12-04 03:26:55,964 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="10c1ca80-48a1-4309-bf6f-36f9ed9c675a")>
+2020-12-04 03:26:55,964 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="10c1ca80-48a1-4309-bf6f-36f9ed9c675a")>
+2020-12-04 03:26:55,964 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 03:26:56,277 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 03:26:57,671 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 03:27:43,383 INFO [admin] [get_driver.py(get_app_driver:13)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 03:28:00,443 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="7cbc0219-594e-436e-aabe-2188fdec0fc1")>
+2020-12-04 03:28:00,443 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="7cbc0219-594e-436e-aabe-2188fdec0fc1")>
+2020-12-04 03:28:00,443 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="7cbc0219-594e-436e-aabe-2188fdec0fc1")>
+2020-12-04 03:28:00,443 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 03:28:00,761 INFO [admin] [base.py(base_if_app_is_install:64)] - appnet.mirrormx.livechat没有安装，正在进行安装
+2020-12-04 03:28:08,520 INFO [admin] [test003_user.py(setup_class:22)] - 正在处理高版本系统的弹窗
+2020-12-04 03:28:09,241 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 03:28:09,241 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 03:28:09,241 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 03:28:09,241 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 03:28:11,657 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 03:28:11,657 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 03:28:11,658 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 03:28:12,230 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 03:28:12,230 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 03:28:13,450 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 03:28:13,478 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 03:28:14,017 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 03:28:14,017 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 03:28:14,706 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 03:28:14,732 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 03:28:16,168 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 03:28:16,168 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 03:28:16,169 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 03:28:16,721 INFO [admin] [page_login.py(page_login:54)] - 调用登录页面组合业务方法
+2020-12-04 03:28:16,721 INFO [admin] [page_login.py(page_login_click_fwq:15)] - 点击要登录的服务器:我的服务器
+2020-12-04 03:28:16,721 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"我的服务器 http://192.168.1.10/kefu/php/app.php?mobile-api")]')
+2020-12-04 03:28:16,721 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"我的服务器 http://192.168.1.10/kefu/php/app.php?mobile-api")]')
+2020-12-04 03:28:17,978 INFO [admin] [page_login.py(page_login_input_username:20)] - 输入用户名
+2020-12-04 03:28:17,978 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="登陆"]/../../android.widget.EditText')
+2020-12-04 03:28:19,287 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="登陆"]/../../android.widget.EditText')
+2020-12-04 03:28:19,310 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="登陆"]/../../android.widget.EditText')输入test04@test.com
+2020-12-04 03:28:20,340 INFO [admin] [page_login.py(page_login_input_password:24)] - 输入密码
+2020-12-04 03:28:20,340 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="密码"]/../../android.widget.EditText')
+2020-12-04 03:28:20,948 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="密码"]/../../android.widget.EditText')
+2020-12-04 03:28:20,969 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="密码"]/../../android.widget.EditText')输入123456
+2020-12-04 03:28:21,504 INFO [admin] [page_login.py(page_login_click_confirm_btn:28)] - 点击确认按钮
+2020-12-04 03:28:21,504 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.widget.Button[@content-desc="登陆 "]')
+2020-12-04 03:28:21,504 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.widget.Button[@content-desc="登陆 "]')
+2020-12-04 03:28:23,276 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.view.View[@content-desc="test04@test.com"]')
+2020-12-04 03:28:23,276 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="test04@test.com"]')
+2020-12-04 03:28:23,693 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="用户详细信息"]')
+2020-12-04 03:28:25,233 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.view.View[@content-desc="用户详细信息"]/../android.widget.Button')
+2020-12-04 03:28:25,233 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="用户详细信息"]/../android.widget.Button')
+2020-12-04 03:28:25,347 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.view.View[@content-desc="test03@test.com"]')
+2020-12-04 03:28:25,348 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="test03@test.com"]')
+2020-12-04 03:28:26,632 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="用户详细信息"]')
+2020-12-04 03:28:28,260 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.widget.Button[contains(@content-desc,"发送消息 ")]')
+2020-12-04 03:28:28,261 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.widget.Button[contains(@content-desc,"发送消息 ")]')
+2020-12-04 03:28:28,393 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="会话"]')
+2020-12-04 03:28:29,362 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.view.View[@content-desc="会话"]/../android.widget.Button')
+2020-12-04 03:28:29,362 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="会话"]/../android.widget.Button')
+2020-12-04 03:28:29,892 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.view.View[@content-desc="用户详细信息"]/../android.widget.Button')
+2020-12-04 03:28:29,893 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="用户详细信息"]/../android.widget.Button')
+2020-12-04 03:28:31,321 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="test03@test.com"]')
+2020-12-04 03:28:31,407 INFO [admin] [get_driver.py(quit_app_driver:22)] - 关闭驱动对象，并置空
+2020-12-04 16:43:17,306 INFO [admin] [get_driver.py(get_app_driver:15)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 16:43:37,935 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="aae0da27-a19a-4d45-b908-13eaa46c77c7")>
+2020-12-04 16:43:37,935 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="aae0da27-a19a-4d45-b908-13eaa46c77c7")>
+2020-12-04 16:43:37,935 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="aae0da27-a19a-4d45-b908-13eaa46c77c7")>
+2020-12-04 16:43:37,935 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 16:43:38,285 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 16:43:39,928 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 16:43:47,284 INFO [admin] [test003_user.py(setup_class:23)] - 正在处理高版本系统的弹窗
+2020-12-04 16:43:49,245 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 16:43:49,246 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 16:43:49,246 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 16:43:49,247 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 16:43:50,458 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 16:43:50,458 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 16:43:50,459 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 16:43:51,255 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 16:43:51,255 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:43:52,490 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:43:53,125 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 16:43:53,674 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 16:43:53,675 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:43:54,271 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:43:54,297 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 16:43:54,976 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 16:43:54,977 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 16:43:54,977 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 16:43:55,664 INFO [admin] [get_driver.py(get_app_driver2:30)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '5.1', 'deviceName': '192.168.29.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 16:44:19,172 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="5df33f06-8b55-4cb9-ba06-f7704275041e")>
+2020-12-04 16:44:19,172 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="5df33f06-8b55-4cb9-ba06-f7704275041e")>
+2020-12-04 16:44:19,172 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="5df33f06-8b55-4cb9-ba06-f7704275041e")>
+2020-12-04 16:44:19,172 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 16:44:19,488 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 16:44:21,013 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 16:44:28,233 INFO [admin] [test003_user.py(setup_class:34)] - 正在处理高版本系统的弹窗
+2020-12-04 16:44:29,790 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 16:44:29,790 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 16:44:29,791 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 16:44:29,791 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 16:44:31,522 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 16:44:31,523 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 16:44:31,523 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 16:44:32,092 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 16:44:32,092 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:44:34,109 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:44:34,136 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 16:44:34,672 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 16:44:34,672 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:44:35,347 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:44:35,378 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 16:44:35,912 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 16:44:35,913 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 16:44:35,913 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 16:44:37,114 INFO [admin] [page_login.py(page_login:54)] - 调用登录页面组合业务方法
+2020-12-04 16:44:37,114 INFO [admin] [page_login.py(page_login_click_fwq:15)] - 点击要登录的服务器:我的服务器
+2020-12-04 16:44:37,114 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"我的服务器 http://192.168.1.10/kefu/php/app.php?mobile-api")]')
+2020-12-04 16:44:37,114 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"我的服务器 http://192.168.1.10/kefu/php/app.php?mobile-api")]')
+2020-12-04 16:45:38,324 INFO [admin] [get_driver.py(get_app_driver:15)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 16:45:54,424 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="e7c52c57-84b5-4aa3-927e-89841e0aa6da")>
+2020-12-04 16:45:54,424 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="e7c52c57-84b5-4aa3-927e-89841e0aa6da")>
+2020-12-04 16:45:54,425 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="e7c52c57-84b5-4aa3-927e-89841e0aa6da")>
+2020-12-04 16:45:54,425 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 16:45:54,751 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 16:45:56,076 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 16:46:24,104 INFO [admin] [get_driver.py(get_app_driver:15)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 16:46:40,282 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="c98bf6a9-b109-4bc1-af8a-17e29a5fc7fa")>
+2020-12-04 16:46:40,282 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="c98bf6a9-b109-4bc1-af8a-17e29a5fc7fa")>
+2020-12-04 16:46:40,282 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="c98bf6a9-b109-4bc1-af8a-17e29a5fc7fa")>
+2020-12-04 16:46:40,283 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 16:46:40,574 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 16:46:41,831 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 16:46:48,883 INFO [admin] [test003_user.py(setup_class:23)] - 正在处理高版本系统的弹窗
+2020-12-04 16:46:50,326 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 16:46:50,326 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 16:46:50,326 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 16:46:50,326 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 16:46:52,168 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 16:46:52,169 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 16:46:52,169 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 16:46:52,730 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 16:46:52,731 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:46:54,165 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:46:54,198 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 16:46:55,066 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 16:46:55,066 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:46:55,720 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:46:55,750 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 16:46:56,285 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 16:46:56,285 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 16:46:56,285 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 16:46:56,967 INFO [admin] [get_driver.py(get_app_driver2:30)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '5.1', 'deviceName': '192.168.29.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 16:47:11,494 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="23707f1b-218b-45aa-9481-e488a17ffa09")>
+2020-12-04 16:47:11,494 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="23707f1b-218b-45aa-9481-e488a17ffa09")>
+2020-12-04 16:47:11,494 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="23707f1b-218b-45aa-9481-e488a17ffa09")>
+2020-12-04 16:47:11,494 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 16:47:11,766 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 16:47:13,203 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 16:47:20,344 INFO [admin] [test003_user.py(setup_class:34)] - 正在处理高版本系统的弹窗
+2020-12-04 16:49:17,409 INFO [admin] [get_driver.py(get_app_driver:15)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 16:49:32,421 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="d872fe95-54bb-4030-8ba7-3669b946c488")>
+2020-12-04 16:49:32,421 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="d872fe95-54bb-4030-8ba7-3669b946c488")>
+2020-12-04 16:49:32,422 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="d872fe95-54bb-4030-8ba7-3669b946c488")>
+2020-12-04 16:49:32,422 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 16:49:32,737 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 16:49:34,115 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 16:49:41,658 INFO [admin] [test003_user.py(setup_class:23)] - 正在处理高版本系统的弹窗
+2020-12-04 16:49:43,469 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 16:49:43,469 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 16:49:43,469 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 16:49:43,469 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 16:49:44,781 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 16:49:44,781 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 16:49:44,781 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 16:49:45,349 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 16:49:45,349 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:49:46,942 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:49:46,975 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 16:49:47,511 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 16:49:47,512 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:49:48,166 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:49:48,200 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 16:49:49,129 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 16:49:49,130 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 16:49:49,130 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 16:49:49,826 INFO [admin] [get_driver.py(get_app_driver2:30)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '5.1', 'deviceName': '192.168.29.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 16:50:02,396 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="9232a42f-2078-4182-9f91-ce774d877523")>
+2020-12-04 16:50:02,396 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="9232a42f-2078-4182-9f91-ce774d877523")>
+2020-12-04 16:50:02,396 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="9232a42f-2078-4182-9f91-ce774d877523")>
+2020-12-04 16:50:02,396 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 16:50:02,665 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 16:50:04,424 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 16:51:07,126 INFO [admin] [get_driver.py(get_app_driver:15)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 16:51:22,592 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="fd85ca80-9d80-4eee-ba17-86718665bb5a")>
+2020-12-04 16:51:22,592 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="fd85ca80-9d80-4eee-ba17-86718665bb5a")>
+2020-12-04 16:51:22,592 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="fd85ca80-9d80-4eee-ba17-86718665bb5a")>
+2020-12-04 16:51:22,592 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 16:51:22,883 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 16:51:24,408 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 16:51:31,295 INFO [admin] [test003_user.py(setup_class:23)] - 正在处理高版本系统的弹窗
+2020-12-04 16:51:32,762 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 16:51:32,763 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 16:51:32,763 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 16:51:32,763 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 16:51:34,559 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 16:51:34,560 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 16:51:34,560 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 16:51:35,114 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 16:51:35,114 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:51:36,527 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:51:37,127 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 16:51:37,663 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 16:51:37,663 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:51:38,320 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:51:38,344 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 16:51:38,882 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 16:51:38,882 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 16:51:38,882 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 16:51:40,143 INFO [admin] [get_driver.py(get_app_driver2:30)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '5.1', 'deviceName': '192.168.29.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 16:51:53,543 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="04320630-c435-4924-9c34-f82134a76316")>
+2020-12-04 16:51:53,543 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="04320630-c435-4924-9c34-f82134a76316")>
+2020-12-04 16:51:53,543 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="04320630-c435-4924-9c34-f82134a76316")>
+2020-12-04 16:51:53,543 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 16:51:53,808 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 16:51:55,041 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 16:52:01,508 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 16:52:01,508 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 16:52:01,508 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 16:52:01,508 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 16:52:05,569 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 16:52:05,569 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 16:52:05,569 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 16:52:06,144 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 16:52:06,144 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:52:06,979 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:52:07,463 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 16:52:07,974 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 16:52:07,974 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:52:08,053 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 16:52:08,552 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 16:52:09,085 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 16:52:09,086 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 16:52:09,087 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 16:52:09,735 INFO [admin] [page_login.py(page_login:54)] - 调用登录页面组合业务方法
+2020-12-04 16:52:09,736 INFO [admin] [page_login.py(page_login_click_fwq:15)] - 点击要登录的服务器:我的服务器
+2020-12-04 16:52:09,736 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"我的服务器 http://192.168.1.10/kefu/php/app.php?mobile-api")]')
+2020-12-04 16:52:09,736 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"我的服务器 http://192.168.1.10/kefu/php/app.php?mobile-api")]')
+2020-12-04 16:52:11,015 INFO [admin] [page_login.py(page_login_input_username:20)] - 输入用户名
+2020-12-04 16:52:11,015 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="登陆"]/../../android.widget.EditText')
+2020-12-04 16:52:11,637 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="登陆"]/../../android.widget.EditText')
+2020-12-04 16:52:12,104 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="登陆"]/../../android.widget.EditText')输入test04@test.com
+2020-12-04 16:52:13,111 INFO [admin] [page_login.py(page_login_input_password:24)] - 输入密码
+2020-12-04 16:52:13,112 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="密码"]/../../android.widget.EditText')
+2020-12-04 16:52:13,170 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="密码"]/../../android.widget.EditText')
+2020-12-04 16:52:13,794 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="密码"]/../../android.widget.EditText')输入123456
+2020-12-04 16:52:14,304 INFO [admin] [page_login.py(page_login_click_confirm_btn:28)] - 点击确认按钮
+2020-12-04 16:52:14,305 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.widget.Button[@content-desc="登陆 "]')
+2020-12-04 16:52:14,305 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.widget.Button[@content-desc="登陆 "]')
+2020-12-04 16:52:15,920 INFO [admin] [page_login.py(page_login:54)] - 调用登录页面组合业务方法
+2020-12-04 16:52:15,920 INFO [admin] [page_login.py(page_login_click_fwq:15)] - 点击要登录的服务器:我的服务器
+2020-12-04 16:52:15,921 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"我的服务器 http://192.168.1.10/kefu/php/app.php?mobile-api")]')
+2020-12-04 16:52:15,921 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"我的服务器 http://192.168.1.10/kefu/php/app.php?mobile-api")]')
+2020-12-04 16:52:16,266 INFO [admin] [page_login.py(page_login_input_username:20)] - 输入用户名
+2020-12-04 16:52:16,266 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="登陆"]/../../android.widget.EditText')
+2020-12-04 16:52:16,996 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="登陆"]/../../android.widget.EditText')
+2020-12-04 16:52:17,019 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="登陆"]/../../android.widget.EditText')输入test04@test.com
+2020-12-04 16:52:18,045 INFO [admin] [page_login.py(page_login_input_password:24)] - 输入密码
+2020-12-04 16:52:18,046 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="密码"]/../../android.widget.EditText')
+2020-12-04 16:52:19,218 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="密码"]/../../android.widget.EditText')
+2020-12-04 16:52:19,240 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="密码"]/../../android.widget.EditText')输入123456
+2020-12-04 16:52:19,772 INFO [admin] [page_login.py(page_login_click_confirm_btn:28)] - 点击确认按钮
+2020-12-04 16:52:19,772 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.widget.Button[@content-desc="登陆 "]')
+2020-12-04 16:52:19,772 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.widget.Button[@content-desc="登陆 "]')
+2020-12-04 16:52:21,464 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.view.View[@content-desc="test04@test.com"]')
+2020-12-04 16:52:21,464 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="test04@test.com"]')
+2020-12-04 16:52:22,378 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="用户详细信息"]')
+2020-12-04 16:52:23,578 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.view.View[@content-desc="用户详细信息"]/../android.widget.Button')
+2020-12-04 16:52:23,578 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="用户详细信息"]/../android.widget.Button')
+2020-12-04 16:52:23,697 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//android.view.View[@content-desc="test03@test.com"]')
+2020-12-04 16:52:23,697 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="test03@test.com"]')
+2020-12-04 16:52:33,947 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="test03@test.com"]')
+2020-12-04 16:52:36,087 INFO [admin] [get_driver.py(quit_app_driver:24)] - 关闭驱动对象，并置空
+2020-12-04 16:52:37,227 INFO [admin] [get_driver.py(quit_app_driver2:39)] - 关闭驱动对象，并置空
+2020-12-04 17:10:15,616 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 17:10:28,217 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 17:11:11,514 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 17:11:56,022 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 17:12:42,943 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 17:20:55,923 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 17:21:13,320 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="20ff74e7-43de-4b01-b903-ebf7abae7246")>
+2020-12-04 17:21:13,320 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="20ff74e7-43de-4b01-b903-ebf7abae7246")>
+2020-12-04 17:21:13,320 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="20ff74e7-43de-4b01-b903-ebf7abae7246")>
+2020-12-04 17:21:13,320 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 17:21:13,638 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 17:21:15,155 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 17:21:22,820 INFO [admin] [test003_user.py(setup_class:23)] - 正在处理高版本系统的弹窗
+2020-12-04 17:21:24,153 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 17:21:24,154 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 17:21:24,154 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 17:21:24,154 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 17:21:26,438 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 17:21:26,438 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 17:21:26,438 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 17:21:27,807 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 17:21:27,808 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:21:29,380 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:21:29,412 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 17:21:29,944 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 17:21:29,944 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:21:30,634 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:21:30,662 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 17:21:31,198 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 17:21:31,199 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 17:21:31,199 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 17:21:32,413 INFO [admin] [get_driver.py(get_app_driver2:31)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '5.1', 'deviceName': '192.168.44.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 17:21:49,669 INFO [admin] [get_driver.py(get_app_driver3:46)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '5.1', 'deviceName': 'emulator-5554', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 17:22:03,397 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="f3ab8e8b-76d7-4e88-b5f3-f05bc99751ac")>
+2020-12-04 17:22:03,397 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 17:22:03,965 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 17:22:05,750 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 17:22:13,074 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="f3ab8e8b-76d7-4e88-b5f3-f05bc99751ac")>
+2020-12-04 17:22:13,074 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 17:22:13,074 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 17:22:13,074 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 17:22:13,074 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 17:22:16,920 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 17:22:16,921 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 17:22:16,921 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 17:22:17,741 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 17:22:17,741 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:22:18,889 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:22:18,897 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 17:22:19,413 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 17:22:19,413 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:22:20,016 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:22:20,029 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 17:22:20,537 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 17:22:20,537 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 17:22:20,537 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 17:22:21,080 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="f3ab8e8b-76d7-4e88-b5f3-f05bc99751ac")>
+2020-12-04 17:22:21,081 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="f01a32ec-ff26-4ab9-912f-cf958f56a60b")>
+2020-12-04 17:22:21,081 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 17:22:21,550 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 17:22:23,702 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 17:22:30,522 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="f01a32ec-ff26-4ab9-912f-cf958f56a60b")>
+2020-12-04 17:22:30,522 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 17:22:30,522 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 17:22:30,522 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 17:22:30,522 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 17:22:34,068 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 17:22:34,068 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 17:22:34,068 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 17:22:35,347 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 17:22:35,347 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:22:36,494 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:22:36,509 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 17:22:37,021 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 17:22:37,022 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:22:37,581 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:22:37,593 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 17:22:38,098 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 17:22:38,098 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 17:22:38,098 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 17:22:38,611 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="f01a32ec-ff26-4ab9-912f-cf958f56a60b")>
+2020-12-04 17:22:38,799 INFO [admin] [get_driver.py(quit_app_driver:25)] - 关闭驱动对象，并置空
+2020-12-04 17:36:46,055 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 17:37:01,715 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="902900b5-005c-49f7-bdba-2fe401ec8b79")>
+2020-12-04 17:37:01,715 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="902900b5-005c-49f7-bdba-2fe401ec8b79")>
+2020-12-04 17:37:01,715 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="902900b5-005c-49f7-bdba-2fe401ec8b79")>
+2020-12-04 17:37:01,716 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 17:37:02,017 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 17:37:03,357 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 17:37:10,857 INFO [admin] [test003_user.py(setup_class:23)] - 正在处理高版本系统的弹窗
+2020-12-04 17:37:12,355 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 17:37:12,355 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 17:37:12,356 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 17:37:12,356 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 17:37:13,913 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 17:37:13,913 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 17:37:13,913 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 17:37:15,893 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 17:37:15,894 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:37:16,861 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:37:17,255 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 17:37:18,113 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 17:37:18,113 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:37:18,764 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:37:18,798 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 17:37:19,353 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 17:37:19,353 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 17:37:19,353 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 17:37:20,050 INFO [admin] [get_driver.py(get_app_driver2:31)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 17:37:43,448 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 17:37:59,893 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="288c5513-06cb-41a7-8e0f-ade7d66b6cc0")>
+2020-12-04 17:37:59,893 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="288c5513-06cb-41a7-8e0f-ade7d66b6cc0")>
+2020-12-04 17:37:59,894 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="288c5513-06cb-41a7-8e0f-ade7d66b6cc0")>
+2020-12-04 17:37:59,894 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 17:38:00,210 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 17:38:01,789 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 17:38:09,192 INFO [admin] [test003_user.py(setup_class:23)] - 正在处理高版本系统的弹窗
+2020-12-04 17:38:10,629 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 17:38:10,629 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 17:38:10,629 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 17:38:10,629 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 17:38:12,428 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 17:38:12,428 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 17:38:12,429 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 17:38:12,984 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 17:38:12,985 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:38:14,457 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:38:14,486 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 17:38:15,135 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 17:38:15,136 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:38:15,785 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 17:38:15,818 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 17:38:16,354 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 17:38:16,355 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 17:38:16,355 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 17:38:17,003 INFO [admin] [get_driver.py(get_app_driver2:31)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 17:38:58,448 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 17:39:43,179 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 17:46:47,542 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 17:47:26,472 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 18:11:09,990 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings', 'automationName': 'UiAutomator'}
+2020-12-04 18:15:49,997 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings', 'automationName': 'UiAutomator1'}
+2020-12-04 18:16:12,578 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="07034af9-ed24-49ef-818e-c81b7e86b06b")>
+2020-12-04 18:16:12,578 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="07034af9-ed24-49ef-818e-c81b7e86b06b")>
+2020-12-04 18:16:12,578 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="07034af9-ed24-49ef-818e-c81b7e86b06b")>
+2020-12-04 18:16:12,579 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 18:16:12,874 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 18:16:15,432 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 18:16:43,112 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 18:16:43,112 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 18:16:43,112 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 18:16:43,113 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 18:16:46,258 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 18:16:46,258 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 18:16:46,259 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 18:16:47,397 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 18:16:47,398 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:16:48,652 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:16:49,472 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 18:16:55,205 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 18:16:55,205 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:16:55,433 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:16:57,063 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 18:17:02,748 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 18:17:02,748 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 18:17:02,748 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 18:17:03,732 INFO [admin] [get_driver.py(get_app_driver2:31)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 18:17:11,843 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings', 'automationName': 'UiAutomator1'}
+2020-12-04 18:17:17,249 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings', 'automationName': 'UiAutomator1'}
+2020-12-04 18:18:38,148 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings', 'automationName': 'UiAutomator1'}
+2020-12-04 18:18:49,944 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="9b2802db-7fb4-40d7-83a2-51c4456a1547")>
+2020-12-04 18:18:49,945 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="9b2802db-7fb4-40d7-83a2-51c4456a1547")>
+2020-12-04 18:18:49,945 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="9b2802db-7fb4-40d7-83a2-51c4456a1547")>
+2020-12-04 18:18:49,945 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 18:18:50,234 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 18:18:52,674 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 18:19:14,778 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 18:19:14,778 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 18:19:14,778 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 18:19:14,778 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 18:19:18,033 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 18:19:18,033 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 18:19:18,033 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 18:19:19,117 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 18:19:19,117 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:19:20,370 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:19:21,222 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 18:19:26,920 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 18:19:26,921 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:19:27,116 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:19:28,447 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 18:19:33,607 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 18:19:33,608 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 18:19:33,608 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 18:19:34,720 INFO [admin] [get_driver.py(get_app_driver2:31)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 18:25:06,813 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings', 'automationName': 'UiAutomator1'}
+2020-12-04 18:25:38,666 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings', 'automationName': 'UiAutomator1'}
+2020-12-04 18:25:51,124 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="512dc247-77de-4954-9924-17beed0bc6b4")>
+2020-12-04 18:25:51,124 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="512dc247-77de-4954-9924-17beed0bc6b4")>
+2020-12-04 18:25:51,124 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="512dc247-77de-4954-9924-17beed0bc6b4")>
+2020-12-04 18:25:51,124 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 18:25:51,391 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 18:25:53,515 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 18:26:01,300 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 18:26:01,300 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 18:26:01,300 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 18:26:01,300 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 18:26:04,378 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 18:26:04,378 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 18:26:04,378 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 18:26:05,132 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 18:26:05,133 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:26:05,964 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:26:07,222 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 18:26:13,430 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 18:26:13,430 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:26:13,515 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:26:15,238 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 18:26:20,917 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 18:26:20,917 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 18:26:20,917 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 18:26:21,521 INFO [admin] [get_driver.py(get_app_driver2:31)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 18:26:38,717 INFO [admin] [get_driver.py(get_app_driver3:46)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '5.1', 'deviceName': 'emulator-5554', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 18:34:25,476 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings', 'automationName': 'UiAutomator1'}
+2020-12-04 18:34:38,077 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="3b93c9a3-90eb-4a1c-9459-3ff7affecf97")>
+2020-12-04 18:34:38,077 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="3b93c9a3-90eb-4a1c-9459-3ff7affecf97")>
+2020-12-04 18:34:38,077 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="3b93c9a3-90eb-4a1c-9459-3ff7affecf97")>
+2020-12-04 18:34:38,077 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 18:34:38,588 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 18:34:40,421 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 18:34:47,990 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 18:34:47,990 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 18:34:47,990 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 18:34:47,990 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 18:34:50,303 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 18:34:50,303 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 18:34:50,303 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 18:34:51,058 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 18:34:51,058 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:34:51,688 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:34:53,448 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 18:34:59,326 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 18:34:59,326 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:34:59,440 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:35:00,781 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 18:35:06,752 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 18:35:06,752 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 18:35:06,752 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 18:35:08,209 INFO [admin] [get_driver.py(get_app_driver2:31)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 18:36:17,863 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '4.4', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings', 'automationName': 'UiAutomator1'}
+2020-12-04 18:36:30,913 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="5e1e922d-044a-4ef4-852f-c64befac55d3")>
+2020-12-04 18:36:30,914 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="5e1e922d-044a-4ef4-852f-c64befac55d3")>
+2020-12-04 18:36:30,914 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="5e1e922d-044a-4ef4-852f-c64befac55d3")>
+2020-12-04 18:36:30,914 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 18:36:31,271 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 18:36:33,225 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 18:36:41,567 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 18:36:41,568 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 18:36:41,568 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 18:36:41,568 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 18:36:44,771 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 18:36:44,772 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 18:36:44,772 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 18:36:45,172 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 18:36:45,172 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:36:45,956 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:36:47,498 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 18:36:53,212 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 18:36:53,212 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:36:53,359 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 18:36:54,656 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 18:37:01,376 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 18:37:01,376 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 18:37:01,376 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 18:37:02,083 INFO [admin] [get_driver.py(get_app_driver2:31)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}
+2020-12-04 22:08:47,480 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '5.1', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 22:09:18,016 INFO [admin] [get_driver.py(get_app_driver:16)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '5.1', 'deviceName': '192.168.19.101:5555', 'appPackage': 'com.android.settings', 'appActivity': '.Settings'}
+2020-12-04 22:09:36,840 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="ec202fd7-473e-4a40-941b-1d7ccf3ce3b5")>
+2020-12-04 22:09:36,841 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="ec202fd7-473e-4a40-941b-1d7ccf3ce3b5")>
+2020-12-04 22:09:36,841 INFO [admin] [base.py(__init__:18)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="ec202fd7-473e-4a40-941b-1d7ccf3ce3b5")>
+2020-12-04 22:09:36,841 INFO [admin] [base.py(base_if_app_is_install:56)] - 判断appnet.mirrormx.livechat是否已经安装
+2020-12-04 22:09:37,132 INFO [admin] [base.py(base_if_app_is_install:59)] - appnet.mirrormx.livechat已经安装,正在卸载
+2020-12-04 22:09:38,510 INFO [admin] [base.py(base_if_app_is_install:61)] - 重新安装appnet.mirrormx.livechat
+2020-12-04 22:09:46,164 INFO [admin] [page_fwq.py(page_hand_add_fwq:54)] - 正在调用手工添加服务器组合业务逻辑方法
+2020-12-04 22:09:46,164 INFO [admin] [page_fwq.py(page_click_add_fwq_btn:15)] - 点击添加服务器按钮
+2020-12-04 22:09:46,164 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 22:09:46,164 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"添加新的服务器")]')
+2020-12-04 22:09:49,380 INFO [admin] [page_fwq.py(page_select_hand_input:19)] - 选择手工输入模式
+2020-12-04 22:09:49,380 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 22:09:49,380 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"手工输入")]')
+2020-12-04 22:09:50,214 INFO [admin] [page_fwq.py(page_input_fwq_name:23)] - 输入服务器名字为我的服务器
+2020-12-04 22:09:50,214 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 22:09:51,224 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 22:09:51,679 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'server.name\' | trans }}"]/../../android.widget.EditText')输入我的服务器
+2020-12-04 22:09:52,188 INFO [admin] [page_fwq.py(page_input_fuq_URL:27)] - 输入服务器地址为http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 22:09:52,188 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 22:09:52,270 INFO [admin] [base.py(base_input_value:32)] - 正在清空元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')
+2020-12-04 22:09:52,744 INFO [admin] [base.py(base_input_value:34)] - 向元素('xpath', '//android.view.View[@content-desc="{{ \'m.api.url\' | trans }}"]/../../android.widget.EditText')输入http://192.168.1.10/kefu/php/app.php?mobile-api
+2020-12-04 22:09:53,542 INFO [admin] [page_fwq.py(page_click_save_btn:31)] - 点击保存按钮
+2020-12-04 22:09:53,543 INFO [admin] [base.py(base_click_element:27)] - 正在点击元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 22:09:53,543 INFO [admin] [base.py(base_find_element:22)] - 正在查找元素('xpath', '//*[contains(@content-desc,"保存")]')
+2020-12-04 22:09:54,162 INFO [admin] [get_driver.py(get_app_driver2:31)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.android.settings', 'appActivity': '.HWSettings'}

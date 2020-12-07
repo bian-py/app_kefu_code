@@ -1,0 +1,64 @@
+001:
+  - '我的服务器'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - ''
+002:
+  - '我的服务器'
+  - 'http://192.168.1.10/kefu/p6546hp/app.php?mobile-api'
+  - '无法连接到API'
+003:
+  - '11111'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - ''
+004:
+  - 'aaaaa'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - ''
+005:
+  - '我的服务器纯中文'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - ''
+006:
+  - '！@#￥%……& *（'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - ''
+007:
+  - 'a1！@我的'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - ''
+008:
+  - ''
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - '名称为空'
+009:
+  - '1111'
+  - ''
+  - 'URL为空'
+010:
+  - '1234567890'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - ''
+011:
+  - '1234567890123465789'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - ''
+012:
+  - '1'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - ''
+013:
+  - '11'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - ''
+014:
+  - '12345678901234567890'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - ''
+015:
+  - '123456789012345678901'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - '服务器名称过长'
+016:
+  - '1'
+  - 'http://192.168.1.10/kefu/php/app.php?mobile-api'
+  - '服务器名称不能重复'
