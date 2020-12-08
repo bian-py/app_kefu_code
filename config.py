@@ -17,7 +17,7 @@ db = {
 # 手机连接配置信息
 cap = {
   "platformName": "Android",
-  "platformVersion": "6",
+  "platformVersion": "9",
   "deviceName": "emulator-5554",
   "appPackage": "com.android.settings",
   "appActivity": ".Settings",
@@ -27,7 +27,7 @@ cap = {
 cap2 = \
 {
   "platformName": "Android",
-  "platformVersion": "9",
+  "platformVersion": "6",
   "deviceName": "HJS0218B27006432",
   "appPackage": "com.android.settings",
   "appActivity": ".Settings",
