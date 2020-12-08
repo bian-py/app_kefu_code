@@ -1,6 +1,8 @@
 import json
 
 # os.system("allure serve report")
+import os
+
 os.system("allure generate ./temp -o ./report --clean ")
 
 

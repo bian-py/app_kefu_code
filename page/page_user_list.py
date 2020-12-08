@@ -73,6 +73,11 @@ class PageUserList(Base):
             # for i in [driver2]:
             PageUserList(i).base_if_app_is_install('net.mirrormx.livechat')
             i.start_activity('net.mirrormx.livechat', '.MainActivity')
+            try:
+                log.info('正在处理高版本系统的弹窗')
+                i.switch_to.alert.accept()
+            except:
+                pass
             PageFwq(i).page_hand_add_fwq('我的服务器', 'http://192.168.1.10/kefu/php/app.php?mobile-api')
             other_user_list_obj.append(PageUserList(i))
             other_page_login_obj.append(PageLogin(i))

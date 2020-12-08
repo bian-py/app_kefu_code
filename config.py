@@ -23,6 +23,7 @@ cap = {
   "appActivity": ".Settings",
   "newCommandTimeout": 600
 }
+# 主机配置
 cap2 = \
 {
   "platformName": "Android",

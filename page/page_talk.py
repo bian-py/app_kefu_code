@@ -2,6 +2,7 @@ from time import sleep
 
 import page
 from base.base import Base
+from config import cap2
 from page.page_fwq import PageFwq
 from page.page_login import PageLogin
 from page.page_user_list import PageUserList
@@ -61,6 +62,16 @@ class PageTalk(Base):
     def page_talk_send_attachment(self):
         log.info('发送附件')
         self.base_click_element(page.talk_attachment_btn)
+        if cap2['platformVersion'] == '6':
+            # while True:
+            # self.base_click_element(page.talk_attachment_for_6_arth)
+            # sleep(1)
+            # self.base_click_element(page.talk_attachment_for_6_arth)
+            # sleep(3)
+            self.driver.switch_to.alert.accept()
+            sleep(2)
+            self.driver.switch_to.alert.accept()
+            sleep(2)
         self.base_click_element(page.talk_attachment_enter)
         self.base_click_element(page.talk_attachment_file_menu)
         self.base_click_element(page.talk_attachment_download)
@@ -172,6 +183,11 @@ class PageTalk(Base):
             # for i in [driver2]:
             PageUserList(i).base_if_app_is_install('net.mirrormx.livechat')
             i.start_activity('net.mirrormx.livechat', '.MainActivity')
+            try:
+                log.info('正在处理高版本系统的弹窗')
+                i.switch_to.alert.accept()
+            except:
+                pass
             PageFwq(i).page_hand_add_fwq('我的服务器', 'http://192.168.1.10/kefu/php/app.php?mobile-api')
             other_user_list_obj.append(PageUserList(i))
             other_page_login_obj.append(PageLogin(i))

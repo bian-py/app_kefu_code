@@ -2,6 +2,7 @@ from time import sleep
 
 import page
 from base.base import Base
+from config import cap2
 from tool.get_log import GetLogger
 
 log = GetLogger.get_log()
@@ -59,10 +60,18 @@ class PageDhl(Base):
     def page_dhl_if_view(self):
         log.info(f'判断是否成功跳转到预览界面')
         sleep(3)
-        if self.driver.current_package == page.dhl_if_view:
-            return True
-        else:
-            return False
+        if cap2['platformVersion'] == '9':
+            log.info('检查系统版本为Android 9 ')
+            if self.driver.current_package == page.dhl_if_view:
+                return True
+            else:
+                return False
+        elif cap2['platformVersion'] == '6':
+            log.info('检查系统版本为Android 6 ')
+            if self.driver.current_package == page.dhl_if_view_for_android_6:
+                return True
+            else:
+                return False
 
     def page_dhl_if_history(self):
         log.info(f'判断是否成功跳转到历史界面')

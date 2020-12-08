@@ -54,6 +54,7 @@ dhl_view = By.XPATH, '//android.view.View[contains(@content-desc,"退出")]/../a
 dhl_if_user = By.XPATH, '//android.view.View[@content-desc=" 匿名用户"]'
 dhl_if_history = By.XPATH, '//android.widget.Button[contains(@content-desc,"搜索 ")]'
 dhl_if_view = 'org.chromium.webview_shell'
+dhl_if_view_for_android_6 = 'com.android.browser'
 dhl_if_logout = By.XPATH, '//*[contains(@content-desc,"添加新的服务器")]'
 dhl_back_from_talk = By.XPATH, '//android.view.View[contains(@content-desc,"在线用户 在线用户")]/android.view.View/android.view.View'
 
@@ -76,6 +77,7 @@ talk_input_btn = By.XPATH, '//android.widget.EditText/../../android.widget.Butto
 talk_emoji_btn = By.XPATH, '//android.widget.EditText/../../android.widget.Button[2]'
 talk_menu_btn = By.XPATH, '//android.widget.EditText/../../android.widget.Button[1]'
 talk_attachment_btn = By.XPATH, '//android.widget.EditText/../../android.view.View[2]/android.view.View[1]'
+talk_attachment_for_6_arth = By.ID,'com.android.packageinstaller:id/permission_allow_button'
 talk_attachment_enter = By.XPATH, '//android.widget.TextView[contains(@text,"文")]'
 talk_attachment_file_menu = By.XPATH, '//android.widget.ImageButton[@content-desc="显示根目录"]'
 talk_attachment_download = By.XPATH, "//android.widget.TextView[@text = '下载']"

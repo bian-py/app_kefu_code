@@ -122,15 +122,21 @@ class Base:
                 log.info('正在进行刷新页面结构')
                 self.base_click_element(page.fwq_new)
                 self.base_click_element(page.fwq_hand_input)
-                self.base_click_element(page.fwq_back_btn)
-                sleep(1)
+                while True:
+                    self.base_click_element(page.fwq_back_btn)
+                    sleep(1)
+                    try:
+                        self.base_find_element(page.fwq_new)
+                        break
+                    except:
+                        pass
             if source == self.driver.page_source:
                 log.info("滑到最后一个屏幕，未找到元素")
                 return False
                 # raise NoSuchElementException
 
     def base_to_back_to_up(self, loc_area):
-        log.info("正在调用从下向上滑动方法")
+        log.info("正在调用返回顶部滑动方法")
         try:
             # 查找区域元素
             el = self.base_find_element(loc_area, timeout=3)
@@ -156,8 +162,14 @@ class Base:
             log.info('正在进行刷新页面结构')
             self.base_click_element(page.fwq_new)
             self.base_click_element(page.fwq_hand_input)
-            self.base_click_element(page.fwq_back_btn)
-            sleep(1)
+            while True:
+                self.base_click_element(page.fwq_back_btn)
+                sleep(1)
+                try:
+                    self.base_find_element(page.fwq_new)
+                    break
+                except:
+                    pass
             if source == self.driver.page_source:
                 log.info("回到列表最上端")
                 return 'OK'

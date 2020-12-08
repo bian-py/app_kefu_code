@@ -86,6 +86,7 @@ class PageFwq(Base):
         end_x = x + width * 0.2
         end_y = y + height * 0.5
         self.driver.swipe(start_x, start_y, end_x, end_y, duration=2000)
+        sleep(2)
 
     def page_modify_fwq(self, name, url, new):
         log.info('调用修改服务器名称业务组合方法')
@@ -99,8 +100,14 @@ class PageFwq(Base):
                 log.info('正在进行刷新页面结构')
                 self.base_click_element(page.fwq_new)
                 self.base_click_element(page.fwq_hand_input)
-                self.base_click_element(page.fwq_back_btn)
-                sleep(1)
+                while True:
+                    self.base_click_element(page.fwq_back_btn)
+                    sleep(1)
+                    try:
+                        self.base_find_element(page.fwq_new)
+                        break
+                    except:
+                        pass
                 self.page_call_modify_menu(name, url)
                 self.page_click_modify_btn(name, url)
             self.base_input_value(page.fwq_input_name, new)
@@ -116,6 +123,7 @@ class PageFwq(Base):
         loc = By.XPATH, '//*[contains(@content-desc,"{}")]' \
                         '/../android.view.View[2]/android.view.View[2]/android.widget.Button'.format(name + ' ' + url)
         self.base_click_element(loc)
+        sleep(2)
         self.base_click_element(page.fwq_delete_confirm_btn)
 
     def page_delete_fwq(self, name, url):
@@ -131,8 +139,14 @@ class PageFwq(Base):
                 log.info('正在进行刷新页面结构')
                 self.base_click_element(page.fwq_new)
                 self.base_click_element(page.fwq_hand_input)
-                self.base_click_element(page.fwq_back_btn)
-                sleep(1)
+                while True:
+                    self.base_click_element(page.fwq_back_btn)
+                    sleep(1)
+                    try:
+                        self.base_find_element(page.fwq_new)
+                        break
+                    except:
+                        pass
                 self.page_call_modify_menu(name, url)
                 self.page_click_delete_btn(name, url)
                 log.info('删除操作完毕')
